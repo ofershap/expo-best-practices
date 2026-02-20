@@ -1,7 +1,7 @@
 # Expo Best Practices
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills.sh-expo--best--practices-blue)](https://skills.sh/ofershap/expo-best-practices/expo-best-practices)
+[![Skills](https://img.shields.io/badge/skills.sh-expo--best--practices-blue)](https://skills.sh/ofershap/expo-best-practices)
 
 Expo and React Native done right. Expo Router file-based navigation, EAS Build, `expo-image`,
 `expo-secure-store`, config plugins, platform-specific code, and TypeScript navigation params.
@@ -15,7 +15,7 @@ Expo and React Native done right. Expo Router file-based navigation, EAS Build, 
 ### Cursor / Claude Code / Windsurf
 
 ```bash
-npx skills add ofershap/expo-best-practices/expo-best-practices
+npx skills add ofershap/expo-best-practices
 ```
 
 Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
