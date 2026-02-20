@@ -1,6 +1,7 @@
 # Expo Best Practices
 
-Expo and React Native done right. Expo Router, EAS Build, native modules, platform-specific patterns, and navigation your AI agent should follow.
+Expo and React Native done right. Expo Router, EAS Build, native modules, platform-specific
+patterns, and navigation your AI agent should follow.
 
 ## Install
 
@@ -28,7 +29,8 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ### Skills
 
-- **expo-best-practices** - Expo and React Native done right. Expo Router, EAS Build, native modules, platform-specific patterns, and navigation your AI agent should follow.
+- **expo-best-practices** - Expo and React Native done right. Expo Router, EAS Build, native
+  modules, platform-specific patterns, and navigation your AI agent should follow.
 
 ### Rules
 
@@ -40,7 +42,8 @@ Or copy `skills/` into your `.cursor/skills/` or `.claude/skills/` directory.
 
 ## Why This Plugin?
 
-AI agents are trained on data that includes outdated patterns. This plugin ensures your agent uses current Expo / React Native best practices:
+AI agents are trained on data that includes outdated patterns. This plugin ensures your agent uses
+current Expo / React Native best practices:
 
 - Default to manual React Navigation setup instead of Expo Router file-based routing
 - Suggest deprecated expo build instead of EAS Build

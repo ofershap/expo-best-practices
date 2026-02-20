@@ -11,6 +11,16 @@
   "homepage": "https://github.com/ofershap/expo-best-practices",
   "repository": "https://github.com/ofershap/expo-best-practices",
   "license": "MIT",
-  "keywords": ["expo", "react-native", "mobile", "best-practices", "expo-router", "eas-build", "cursor-plugin", "claude-code", "ai-agent"],
+  "keywords": [
+    "expo",
+    "react-native",
+    "mobile",
+    "best-practices",
+    "expo-router",
+    "eas-build",
+    "cursor-plugin",
+    "claude-code",
+    "ai-agent"
+  ],
   "logo": "assets/logo.svg"
 }
