@@ -1,0 +1,24 @@
+{
+  "name": "expo-best-practices",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Expo and React Native done right. Expo Router, EAS Build, native modules, platform-specific patterns, and navigation your AI agent should follow.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": ["expo", "react-native", "mobile", "best-practices", "expo-router", "eas-build", "cursor-plugin", "claude-code", "ai-agent"],
+  "author": {
+    "name": "Ofer Shapira",
+    "url": "https://github.com/ofershap"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofershap/expo-best-practices.git"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.0"
+  }
+}
